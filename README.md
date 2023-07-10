@@ -2,7 +2,7 @@
 uebung git prof Wu
 
 ##Employment
-- [University of Tennessee, Knoxivlle] ([https://www.utk.edu/]
+- [University of Tennessee, Knoxivlle] [https://www.utk.edu/]
 - Binhamton University
 
 ## Projects
